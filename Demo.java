@@ -1,8 +1,10 @@
-public class Demo
+public class Demo extends Invoke
 {
 	public static void main(String args[])
 	{
-		System.out.println(" Hello i am Modified Code !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ");
+		Demo d1 = new Demo();
+		d1.method1();
+		//System.out.println(" Hello i am Modified Code !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ");
 			
 	}
 }
