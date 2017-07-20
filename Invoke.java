@@ -1,4 +1,4 @@
-class Invoke
+public class Invoke
 {
   public void Method1()
   {
