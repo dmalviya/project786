@@ -4,7 +4,5 @@ public class Demo extends Invoke
 	{
 		Demo d1 = new Demo();
 		d1.method1();
-		//System.out.println(" Hello i am Modified Code !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ");
-			
 	}
 }
